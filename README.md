@@ -6,13 +6,15 @@
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sbatrow/TelegraphBot)
 
-
 ## Variables
 
 * `API_HASH` Your API Hash from my.telegram.org
 * `API_ID` Your API ID from my.telegram.org
 * `BOT_TOKEN` Your bot token from @BotFather
 ### Deploy to VPS 🏃‍♂
+
+add Variables to config.py
+
 ```
 
 git clone https://github.com/sbatrow/TelegraphBot
@@ -21,19 +23,8 @@ pip3 install -r requirements.txt
 python3 bot.py
 
 ```
-
-### Support
-
-* [Twitter](https://twitter.com/SBatrow)
-* [YouTube](https://www.youtube.com/channel/UC3E-UaRr8a5vndVOmlnLjjg/?sub_confirmation=1)
-* [GitHub](https://github.com/sbatrow)
-* [Telegram](https://t.me/sibatrow)
-
-### Credits
-
-* [Pyrogram](https://github.com/pyrogram/pyrogram)
-* [Contributors](https://github.com/sbatrow/TelegraphBot)
-
-### LICENSE
-
-[GNU General Public License v3.0](https://github.com/FayasNoushad/TelegraphBot//blob/main/LICENSE)
+### Credits:
+[YouTech BOTs](https://t.me/YouTech_Support)
+[Pyrogram Library](https://github.com/pyrogram/pyrogram)
+### Developers:
+[𝙎𝙞𝙩𝙝𝙪𝙢 𝘽𝙖𝙩𝙧𝙤𝙬 🇱🇰](https://t.me/sibatrow)
