@@ -1,6 +1,6 @@
 # Telegraph Bot
 
-## You can upload photos and videos to telegraph using this bot. Can be found in telegram as [@tele_uplode_bot](https://t.me/tele_uplode_bot)
+## You can upload photos and videos to telegraph using this bot. Can be found in telegram as [@YouTech_Telegraph_bot](http://t.me/YouTech_Telegraph_bot)
 
 ### Deploy to Heroku 🏃‍♂
 
