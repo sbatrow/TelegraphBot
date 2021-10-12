@@ -89,7 +89,7 @@ async def about(client, message):
 async def telegraphphoto(client, message):
     msg = await message.reply_text("Uploading To Telegraph...")
     download_location = await client.download_media(
-        message=message, file_name='root/SBtg')
+        message=message, file_name='root/jetg')
     try:
         response = upload_file(download_location)
     except:
@@ -105,7 +105,7 @@ async def telegraphphoto(client, message):
 async def telegraphvid(client, message):
     msg = await message.reply_text("Uploading To Telegraph...")
     download_location = await client.download_media(
-        message=message, file_name='root/SBtg')
+        message=message, file_name='root/jetg')
     try:
         response = upload_file(download_location)
     except:
@@ -121,7 +121,7 @@ async def telegraphvid(client, message):
 async def telegraphgif(client, message):
     msg = await message.reply_text("Uploading To Telegraph...")
     download_location = await client.download_media(
-        message=message, file_name='root/SBtg')
+        message=message, file_name='root/jetg')
     try:
         response = upload_file(download_location)
     except:
